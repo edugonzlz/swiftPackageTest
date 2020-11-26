@@ -3,7 +3,7 @@ struct SPTest {
 }
 
 public class Dale {
-    func todo(atope: Bool) {
+    public func todo(atope: Bool) {
         print(atope)
     }
 }
